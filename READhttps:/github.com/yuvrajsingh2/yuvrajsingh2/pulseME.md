@@ -6,6 +6,8 @@ Currently learning but not limited to:
   - Java
   - JavaScript (NodeJS, ReactJS)
 
+Part of UNSW CSESoc's Projects team, developer for discord bot.
+
 Can write code in C/Java/Python/JS 
 Send me an email @ yuvraj.singh201001@gmail.com
 
