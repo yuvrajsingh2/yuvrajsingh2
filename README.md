@@ -1,6 +1,8 @@
-Greetings! I'm Yuvraj Singh, Research Assistant at Climate Change Research Centre, UNSW as a part of the ARC Center of Excellence Climate Extremes office. Research Assistant at Biological Science School, UNSW as a part of the Clean Air Schools project and a Computer Science Honours student at UNSW currently writing my thesis on Concept Learning Neural Networks.
+Greetings! My name is Yuvraj and I'm a software engineer with a passion for Machine Learning & Data Engineering.
 
-Fascinated by machine learning, building software, making usable front-ends, scaling back-ends. Massive advocate for the power of generative AI and prompting.
+I'm currently working at UNSW as a data engineer for the Clean Air Schools project. I'm also a Research Assistant at the Climate Change Research Centre, UNSW as a part of the ARC Center of Excellence Climate Extremes office. I recently finished Honours Thesis on Concept Learning Neural Networks with Distinction!
+
+I love helping researchers accomplish their goals using proper data engineering and software practices. Fascinated by machine learning, building software, making usable front-ends, scaling back-ends. Massive advocate for the power of generative AI and prompting.
 
 Always tinkering with the latest and greatest in the AI space. Always down to chat about anything neural nets, climate, dogs, meditation and space.
 
